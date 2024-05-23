@@ -1,1 +1,1 @@
-# graph-contraction-and-expansion
+# Graph-expansion-contraction
